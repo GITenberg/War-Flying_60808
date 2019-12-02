@@ -1,0 +1,25 @@
+_repo: War-Flying_60808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutcheon, L. F.
+    birthdate: 1897
+    gutenberg_agent_id: '51150'
+    url: http://www.gutenberg.org/2009/agents/51150
+description: ''
+gutenberg_issued: '2019-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60808'
+  lccn: '24012577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Royal Air Force'
+- GITenberg
+title: War Flying
+url: http://www.gutenberg.org/ebooks/60808
