@@ -1,5 +1,8 @@
 _repo: War-Flying_60808
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60808-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutcheon, L. F.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51150'
     url: http://www.gutenberg.org/2009/agents/51150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60808#War-Flying
 gutenberg_issued: '2019-11-29'
 gutenberg_type: Text
 identifiers:
